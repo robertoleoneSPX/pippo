@@ -1,5 +1,5 @@
 #webMethods Deployer Configurations
-#Tue Nov 29 18:15:34 CET 2016
+#Tue Nov 29 19:16:41 CET 2016
 noDependencyChecks=false
 projectLocking=false
 solutionDeploymentOrder=Broker,IS,TN,AppPlatform,MWS,EDA,ProcessModel,Optimize,RULES,EventServer,UniversalMessaging,RULESMWS,AgileApps
@@ -36,13 +36,13 @@ reduceDependencyChecks=false
 overwrite=ALWAYS
 largeFileSupport=false
 9.12_AgileApps_compatibleVersions=10.7
-Broker.PartialImplementation.classpath=com.softwareag.broker.deployer.impl.BrokerPartialComposite
 connectionCleanupInterval=10
+Broker.PartialImplementation.classpath=com.softwareag.broker.deployer.impl.BrokerPartialComposite
 validISVersions=9.12@SPI_1,9.10@SPI_1,9.9@SPI_1,9.8@SPI_1,9.7@SPI_1,9.6@SPI_1,9.5@SPI_1,9.0@SPI1,8.2@SPI1,8.0@SPI0,7.1@SPI0
-BPM.PartialImplementation.classpath=
 deployACLMap=true
+BPM.PartialImplementation.classpath=
 8.0_compatibleVersions=8.2
 repoBatchSize=1
 deployTNRules=MERGE
-BAM.PartialImplementation.classpath=
 stopListeners=false
+BAM.PartialImplementation.classpath=
