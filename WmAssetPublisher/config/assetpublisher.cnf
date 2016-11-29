@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <value name="is_hostname">192.168.33.99</value>
+    <value name="is_identifier">6fce5c01-2c84-4ad3-a4e4-e93e7105e0d6</value>
+    <value name="library_username"></value>
+    <value name="library_url"></value>
+  </record>
+</IDataXMLCoder>
