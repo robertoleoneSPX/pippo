@@ -428,27 +428,27 @@
           <value>wm.server.security.certificate:listMappings</value>
           <value>wm.server.ehcache.admin:reloadCacheManager</value>
           <value>wm.server.query:isDistributedCacheLicensed</value>
-          <value>wm.server.schedule:getUserTask</value>
           <value>wm.server.sftpclient:updateUserAlias</value>
-          <value>wm.server.query:getThreadDumpForThread</value>
+          <value>wm.server.schedule:getUserTask</value>
           <value>wm.server.vcsadmin:getSettings</value>
+          <value>wm.server.query:getThreadDumpForThread</value>
           <value>wm.server.triggers:getResourceMonitorReport</value>
           <value>wm.server.triggers:getProperties</value>
-          <value>wm.server.jndi:setJNDIAliasData</value>
           <value>wm.server.net.ftp:init</value>
+          <value>wm.server.jndi:setJNDIAliasData</value>
           <value>wm.server.access:aclLoad</value>
           <value>wm.server.ldap:getSettings</value>
-          <value>wm.server.access:removeIdTokenClaim</value>
           <value>pub.vcs.admin:removeMultipleUsers</value>
-          <value>wm.server.jdbcpool:updateDriverAlias</value>
-          <value>wm.server.replicator:pullPackageViaFtp</value>
+          <value>wm.server.access:removeIdTokenClaim</value>
           <value>wm.server.triggers:setProperties</value>
-          <value>wm.server.deployer.spi.wsProviderV2_.services:DeleteAssets</value>
-          <value>wm.server.query:isRemoteInvokeLicensed</value>
+          <value>wm.server.replicator:pullPackageViaFtp</value>
+          <value>wm.server.jdbcpool:updateDriverAlias</value>
           <value>wm.server.packages:packageDisable</value>
+          <value>wm.server.query:isRemoteInvokeLicensed</value>
+          <value>wm.server.deployer.spi.wsProviderV2_.services:DeleteAssets</value>
           <value>wm.server.replicator:packageFileList</value>
-          <value>wm.server.query:getSystemInfoAsIData</value>
           <value>wm.server.query:getLog</value>
+          <value>wm.server.query:getSystemInfoAsIData</value>
           <value>wm.server.portAccess:deleteNode</value>
           <value>com.wm.isextdc.notification.ISDCNotificationQueue:getOnlySendMonitoredObjectNotification</value>
           <value>wm.server.packages.adminui:packageInfo</value>
@@ -456,54 +456,54 @@
           <value>wm.server.replicator:subscriberEdit</value>
           <value>wm.server.ws</value>
           <value>wm.server.security.keystore.util:addPrivateKeyEntry</value>
-          <value>wm.server.query:getCurrentSession</value>
           <value>wm.server.proxy:createProxyServerAlias</value>
+          <value>wm.server.query:getCurrentSession</value>
           <value>wm.server.remote:addServer</value>
-          <value>wm.server.remote:aliasExists</value>
           <value>com.wm.isextdc.GetModel:getModel</value>
-          <value>wm.server.security.certificate:updateMapping</value>
-          <value>wm.server.replicator.adminui:subscriberCancel</value>
-          <value>wm.server.replicator:subscribedList</value>
+          <value>wm.server.remote:aliasExists</value>
           <value>wm.server.ehcache.admin:deleteCache</value>
-          <value>wm.server.query:getTaskList</value>
+          <value>wm.server.replicator:subscribedList</value>
+          <value>wm.server.replicator.adminui:subscriberCancel</value>
+          <value>wm.server.security.certificate:updateMapping</value>
           <value>wm.server.jdbcpool:deleteFunctionalAlias</value>
+          <value>wm.server.query:getTaskList</value>
           <value>wm.server.deployer.spi.wsProvider_.services:DeployObjectsWithVarsub</value>
           <value>wm.server.security:getSettings</value>
           <value>wm.server.globalvariables:editGlobalVariable</value>
-          <value>wm.server.replicator.adminui:subscriptionCancel</value>
           <value>wm.server.access:getProviderUserIdTokenClaims</value>
+          <value>wm.server.replicator.adminui:subscriptionCancel</value>
           <value>wm.server.schedule:pinTaskOnNodes</value>
-          <value>wm.server.security.openid:reloadProviders</value>
-          <value>wm.server.jndi:searchGroups</value>
           <value>wm.server.access:aclDelete</value>
+          <value>wm.server.jndi:searchGroups</value>
+          <value>wm.server.security.openid:reloadProviders</value>
           <value>wm.server.proxy:disableProxyServerAlias</value>
-          <value>wm.server.deployer.spi.wsProviderV2_.services:ActivateCheckpoint</value>
           <value>wm.server.net.listeners:deleteListener</value>
+          <value>wm.server.deployer.spi.wsProviderV2_.services:ActivateCheckpoint</value>
           <value>wm.server.access:isDigestAuthAllowedForUser</value>
-          <value>wm.server.services.adminui:loadTemplate</value>
-          <value>wm.server.replicator:packageRelease</value>
           <value>wm.server.access:addIdTokenClaim</value>
+          <value>wm.server.replicator:packageRelease</value>
+          <value>wm.server.services.adminui:loadTemplate</value>
           <value>wm.server.security.keystore:listTrustStoreAliases</value>
-          <value>wm.server.replicator:packageBackup</value>
-          <value>wm.server.packages:packageListRecoverable</value>
           <value>wm.server.ehcache.admin:enableCache</value>
+          <value>wm.server.packages:packageListRecoverable</value>
+          <value>wm.server.replicator:packageBackup</value>
           <value>wm.server.proxy:getDefaultHTTPProxyAlias</value>
           <value>wm.server.query:getRepoSettings</value>
           <value>wm.server.services.adminui:serviceInfoSet</value>
           <value>wm.server.jndi:getCDSSettings</value>
           <value>wm.server.packages:packageList</value>
-          <value>wm.server.services.adminui:saveTemplate</value>
-          <value>wm.server.ns.adminui:syncToNamespace</value>
           <value>wm.server.query:getAllServiceStats</value>
-          <value>wm.server.proxy:listProxyAliasNames</value>
+          <value>wm.server.ns.adminui:syncToNamespace</value>
+          <value>wm.server.services.adminui:saveTemplate</value>
           <value>wm.server.ehcache.admin:addCache</value>
+          <value>wm.server.proxy:listProxyAliasNames</value>
           <value>wm.server.replicator:packageCreation</value>
           <value>wm.server.packages.adminui:packageReload</value>
           <value>wm.server.net.listeners:listSecurityProviders</value>
           <value>wm.server.proxy:getDefaultFTPProxyAlias</value>
-          <value>wm.server.security.openid:getIdProviderNamesUI</value>
-          <value>wm.server.schedule:wakeupUserTask</value>
           <value>wm.server.jndi:setSettings</value>
+          <value>wm.server.schedule:wakeupUserTask</value>
+          <value>wm.server.security.openid:getIdProviderNamesUI</value>
           <value>wm.server.sftpclient:getDefaultConfig</value>
           <value>wm.server.xarecovery:getXARecoveryStoreSettings</value>
           <value>wm.server.query:getSetting</value>
@@ -516,25 +516,25 @@
           <value>wm.server.dispatcher.adminui:getBrokerSettings</value>
           <value>wm.server.packages:packageRecover</value>
           <value>wm.server.admin:setLicenseKeyFile</value>
-          <value>wm.server:getClusterNodes</value>
           <value>wm.server.httpUrlAlias:addAlias</value>
+          <value>wm.server:getClusterNodes</value>
           <value>wm.server.replicator:archivePackage</value>
           <value>wm.server.security.keystore:listKeyStoreAliases</value>
           <value>wm.server.sftpclient:createConnectionAlias</value>
-          <value>wm.server.sftpclient:getConnectionAlias</value>
-          <value>wm.server.schedule:resumeScheduler</value>
           <value>wm.server.deployer.spi.wsProvider_.services:DeployObjectsWithACDL</value>
+          <value>wm.server.schedule:resumeScheduler</value>
+          <value>wm.server.sftpclient:getConnectionAlias</value>
           <value>wm.server.access:userAdd</value>
           <value>wm.server.replicator.adminui:subscriptionAdd</value>
-          <value>wm.server.net.http:shutdown</value>
           <value>wm.server.access:aclAssign</value>
+          <value>wm.server.net.http:shutdown</value>
           <value>wm.server.ldap:getConfiguredServer</value>
-          <value>wm.server.replicator.adminui:packageSendZip</value>
           <value>wm.server.globalvariables:removeGlobalVariable</value>
-          <value>wm.server.query:getSessionList</value>
+          <value>wm.server.replicator.adminui:packageSendZip</value>
           <value>wm.server.query:getSecurityProviders</value>
-          <value>wm.server.replicator:packageUnRelease</value>
+          <value>wm.server.query:getSessionList</value>
           <value>wm.server.jndi:getJNDIAliasTemplates</value>
+          <value>wm.server.replicator:packageUnRelease</value>
           <value>wm.server.security.openid:getIdProviders</value>
           <value>wm.server.query:getClusterSettings</value>
           <value>wm.server.access:setDefaultAccess</value>
@@ -542,33 +542,33 @@
           <value>wm.server.query:getExtendedSettings</value>
           <value>wm.server.ui:getMenuTabs</value>
           <value>pub.vcs.admin:getUsers</value>
-          <value>wm.xslt.Admin:getAvailableTransformerFactoryClasses</value>
           <value>wm.server.replicator:getPublisherInfo</value>
+          <value>wm.xslt.Admin:getAvailableTransformerFactoryClasses</value>
           <value>wm.server.ehcache.admin:getCaches</value>
-          <value>wm.server.remote:testAlias</value>
           <value>wm.server.query:getPartialLog</value>
-          <value>wm.server.ui:removeSolution</value>
+          <value>wm.server.remote:testAlias</value>
           <value>wm.server.internalOutboundPasswords:listAdminHandles</value>
+          <value>wm.server.ui:removeSolution</value>
           <value>wm.server.replicator:getDetailedReleasedList</value>
           <value>wm.server.ns.adminui:unLockNode</value>
-          <value>wm.server.sftpclient:testConnection</value>
-          <value>wm.server.access:removeGroups</value>
           <value>wm.server.dispatcher.adminui:clearDupeOrInDoubtDocsStat</value>
+          <value>wm.server.access:removeGroups</value>
+          <value>wm.server.sftpclient:testConnection</value>
           <value>wm.server.remote:init</value>
-          <value>wm.server.access:updateACLs</value>
           <value>wm.server.access:addProviderUsers</value>
+          <value>wm.server.access:updateACLs</value>
           <value>wm.server.security.KeyStoreUtil:createKeyStore</value>
-          <value>wm.server.access:userDelete</value>
           <value>wm.server.packages:packageAddStartupService</value>
-          <value>wm.server.cluster:setSettings</value>
-          <value>wm.server.jndi:deleteJNDIAliasData</value>
+          <value>wm.server.access:userDelete</value>
           <value>wm.server.net.listeners:updateListener</value>
-          <value>wm.server.sftpclient:removeUserAlias</value>
+          <value>wm.server.jndi:deleteJNDIAliasData</value>
+          <value>wm.server.cluster:setSettings</value>
           <value>wm.server.jdbcpool:deleteDriverAlias</value>
+          <value>wm.server.sftpclient:removeUserAlias</value>
           <value>wm.server.security.openid:getIdProviderNames</value>
           <value>wm.server.replicator:unzip</value>
-          <value>wm.server.security.keystore:listKeyAliases</value>
           <value>wm.server.security.certificate:getDetailedInfo</value>
+          <value>wm.server.security.keystore:listKeyAliases</value>
           <value>com.wm.isextdc.GetAttributes:getAttributes</value>
           <value>wm.server.deployer.spi.wsProviderV2_.services:Checkpoint</value>
           <value>wm.server.admin:getHelpTopicUrlMappings</value>
@@ -576,13 +576,13 @@
           <value>wm.server.internalOutboundPasswords:listInternalHandles</value>
           <value>wm.server.access:addACLS</value>
           <value>wm.server.access:addUserInfoClaim</value>
-          <value>wm.server:connect</value>
-          <value>wm.server.schedule:getTargetNodeList</value>
           <value>wm.server.query:getCachedServiceStats</value>
+          <value>wm.server.schedule:getTargetNodeList</value>
+          <value>wm.server:connect</value>
           <value>wm.server.query:getISInstanceProperties</value>
           <value>wm.server.query:getServerLogSettings</value>
-          <value>wm.server.ehcache.admin:getCacheManagers</value>
           <value>wm.server.portAccess:portList</value>
+          <value>wm.server.ehcache.admin:getCacheManagers</value>
           <value>wm.server.packages:packageRemoveReplicationService</value>
           <value>wm.server.jndi:testJNDILookup</value>
           <value>wm.server.schedule:removePinnedNodesAgainstTask</value>
@@ -603,23 +603,23 @@
           <value>wm.server.quiesce:getQuiescePort</value>
           <value>wm.server.triggers:compareClusterReport</value>
           <value>wm.server.schedule:cancelUserTaskByName</value>
-          <value>wm.server.jdbcpool:addFunctionalAlias</value>
           <value>wm.server.net.listeners:updateApiGatewayListener</value>
+          <value>wm.server.jdbcpool:addFunctionalAlias</value>
           <value>wm.server.xidl.adminui:getInterfacesPlus</value>
           <value>wm.server.sftpclient:getServerAliasInfo</value>
           <value>wm.server.deployer.spi.wsProvider_.services:GetObjectVarSub</value>
           <value>wm.server.security.certificate:deleteMapping</value>
-          <value>wm.server.deployer.spi.wsProviderV2_.services:DeliverArtifacts</value>
           <value>wm.server.net.listeners:listListeners</value>
+          <value>wm.server.deployer.spi.wsProviderV2_.services:DeliverArtifacts</value>
           <value>wm.server.security.keystore:createDefaultKeyStoreTrustStoreAliases</value>
-          <value>wm.server.security.KeyStoreUtil:addTrustedCertificateEntry</value>
           <value>wm.server.query:isInstalledAsService</value>
+          <value>wm.server.security.KeyStoreUtil:addTrustedCertificateEntry</value>
           <value>wm.server.services.adminui:serviceInfo</value>
-          <value>wm.server.jdbcpool:getFunctionalDefinitions</value>
           <value>wm.server.ehcache.admin:startCacheManager</value>
-          <value>wm.server.xidl.adminui:testService</value>
-          <value>wm.server.sftpclient:updateConnectionAlias</value>
+          <value>wm.server.jdbcpool:getFunctionalDefinitions</value>
           <value>wm.server.access:isUserExists</value>
+          <value>wm.server.sftpclient:updateConnectionAlias</value>
+          <value>wm.server.xidl.adminui:testService</value>
           <value>wm.server.deployer.spi.wsProvider_.services:GetDependencies</value>
           <value>wm.server.metadata</value>
           <value>wm.server.tx:resetOutbound</value>
@@ -627,77 +627,77 @@
           <value>wm.server.net.listeners:disableListener</value>
           <value>wm.server.access:getDefaultAccess</value>
           <value>wm.server.proxy:isHTTPDefaultConfigured</value>
-          <value>wm.server.query:getThreadDump</value>
           <value>wm.server.jdbcpool:deletePoolAlias</value>
-          <value>wm.server.security.certificate:admin</value>
+          <value>wm.server.query:getThreadDump</value>
           <value>wm.server.proxy:getDefaultHTTPSProxyAlias</value>
-          <value>wm.server.jdbcpool:updateFunctionalAlias</value>
+          <value>wm.server.security.certificate:admin</value>
           <value>wm.server.mimetypes:initMimeTypes</value>
-          <value>wm.server.portAccess:setType</value>
+          <value>wm.server.jdbcpool:updateFunctionalAlias</value>
           <value>wm.server.admin:getServerHost</value>
+          <value>wm.server.portAccess:setType</value>
           <value>wm.server.triggers:monitorAuditSubsystemDB</value>
-          <value>wm.server.ldap:deleteConfiguredServer</value>
           <value>com.wm.isextdc.PkgInit:shutdown</value>
-          <value>wm.server.replicator:packageMakeZip</value>
-          <value>wm.server.remote:getServerAliases</value>
+          <value>wm.server.ldap:deleteConfiguredServer</value>
           <value>wm.server.deployer.spi.wsProviderV2_.services:ExecuteCommand</value>
+          <value>wm.server.remote:getServerAliases</value>
+          <value>wm.server.replicator:packageMakeZip</value>
           <value>wm.server.security.KeyStoreUtil:addPrivateKeyEntry</value>
           <value>wm.server.schedule:getSchedulerInputAsString</value>
-          <value>wm.server.access:providersList</value>
           <value>wm.server.access:aclChange</value>
+          <value>wm.server.access:providersList</value>
           <value>wm.server.proxy:isHTTPSDefaultConfigured</value>
           <value>wm.server.query:getReadOnlyConfigFiles</value>
           <value>wm.server.admin:updateExtendedSettings</value>
           <value>wm.server.ehcache.admin:disableCache</value>
           <value>wm.server.schedule:init</value>
           <value>wm.server.net.listeners:ListenerAdmin</value>
-          <value>wm.server.xarecovery:performActionsOnXAResources</value>
-          <value>wm.server.schedule:updateUserTask</value>
           <value>wm.server.packages:packageInstall</value>
-          <value>wm.server.xarecovery:getXAResourceInfoForXid</value>
+          <value>wm.server.schedule:updateUserTask</value>
+          <value>wm.server.xarecovery:performActionsOnXAResources</value>
           <value>wm.server.dispatcher.adminui:clearTriggerDupeOrInDoubtDocsStat</value>
+          <value>wm.server.xarecovery:getXAResourceInfoForXid</value>
           <value>wm.server.dispatcher.adminui:getDocStoreSettings</value>
           <value>wm.server.net.listeners:addSecurityProvider</value>
           <value>wm.server.dispatcher.adminui:deleteRejectedMessages</value>
           <value>com.wm.artextdc.ARTPollManager:setAdapterPollInterval</value>
           <value>wm.server.xarecovery:setWriteRecoveryRecord</value>
-          <value>wm.server.security.openid:setIdProvider</value>
           <value>wm.server.auditing:setAuditLoggerDetails</value>
+          <value>wm.server.security.openid:setIdProvider</value>
           <value>wm.server.query:getServerInstanceName</value>
           <value>com.wm.isextdc.PkgInit:init</value>
           <value>wm.server:noop</value>
-          <value>wm.server.jndi:getJNDIAliases</value>
-          <value>wm.server.globalvariables:getGlobalVariableValue</value>
           <value>wm.server.ehcache.admin:syncCacheConfigToTSA</value>
-          <value>wm.server.query:getServiceStats</value>
+          <value>wm.server.globalvariables:getGlobalVariableValue</value>
+          <value>wm.server.jndi:getJNDIAliases</value>
           <value>wm.server.query:getExtendedSettingsVisible</value>
+          <value>wm.server.query:getServiceStats</value>
           <value>wm.server.auditing:getAuditLoggerDetails</value>
-          <value>wm.server.sftpclient:updateServerAlias</value>
           <value>wm.server.deployer.spi.wsProviderV2_.services:DeleteDeliveredArtifacts</value>
+          <value>wm.server.sftpclient:updateServerAlias</value>
           <value>wm.server.deployer.spi.wsProvider_.services:GetObjects</value>
           <value>wm.server.ui:getMenus</value>
           <value>wm.server:ping</value>
           <value>wm.xslt.File:create</value>
           <value>wm.server.sftpclient:removeConnectionAlias</value>
-          <value>wm.server.access:setMultipleUserDisabled</value>
           <value>com.wm.isextdc.config:install</value>
+          <value>wm.server.access:setMultipleUserDisabled</value>
           <value>wm.server.query:getResourceSettings</value>
-          <value>wm.server.xarecovery:getUnresolvedTXs</value>
-          <value>wm.server.admin:quiesceServer</value>
-          <value>wm.server.packages:getPackageStatus</value>
           <value>wm.server.jdbcpool:testPoolAlias</value>
+          <value>wm.server.packages:getPackageStatus</value>
+          <value>wm.server.admin:quiesceServer</value>
+          <value>wm.server.xarecovery:getUnresolvedTXs</value>
           <value>wm.server.internalOutboundPasswords:verifyRawMaster</value>
           <value>wm.server.dispatcher.adminui:getRejectedMessages</value>
-          <value>wm.server.access:aclAdd</value>
           <value>wm.server.deployer.spi.wsProvider_.services:GetConnectionInfo</value>
+          <value>wm.server.access:aclAdd</value>
           <value>wm.server.access:userUpdate</value>
           <value>wm.server.replicator:getDetailedSubscriptions</value>
           <value>wm.server.deployer.spi.wsProvider_.services:DeployObjects</value>
           <value>wm.server.jndi:getSettings</value>
           <value>wm.server.jms</value>
           <value>wm.server.packages.adminui:packageActivate</value>
-          <value>wm.server.schedule:getUserTaskOids</value>
           <value>wm.server.access:groupDelete</value>
+          <value>wm.server.schedule:getUserTaskOids</value>
           <value>wm.server.packages:packageAddReplicationService</value>
         </list>
       </record>
@@ -1024,17 +1024,17 @@
           <value>wm.server.jndi:setJNDIAliasData</value>
           <value>wm.server.access:aclLoad</value>
           <value>wm.server.ldap:getSettings</value>
-          <value>pub.vcs.admin:removeMultipleUsers</value>
           <value>wm.server.access:removeIdTokenClaim</value>
-          <value>wm.server.triggers:setProperties</value>
-          <value>wm.server.replicator:pullPackageViaFtp</value>
+          <value>pub.vcs.admin:removeMultipleUsers</value>
           <value>wm.server.jdbcpool:updateDriverAlias</value>
-          <value>wm.server.query:isRemoteInvokeLicensed</value>
-          <value>wm.server.packages:packageDisable</value>
+          <value>wm.server.replicator:pullPackageViaFtp</value>
+          <value>wm.server.triggers:setProperties</value>
           <value>wm.server.deployer.spi.wsProviderV2_.services:DeleteAssets</value>
+          <value>wm.server.packages:packageDisable</value>
+          <value>wm.server.query:isRemoteInvokeLicensed</value>
           <value>wm.server.replicator:packageFileList</value>
-          <value>wm.server.query:getSystemInfoAsIData</value>
           <value>wm.server.query:getLog</value>
+          <value>wm.server.query:getSystemInfoAsIData</value>
           <value>wm.server.portAccess:deleteNode</value>
           <value>com.wm.isextdc.notification.ISDCNotificationQueue:getOnlySendMonitoredObjectNotification</value>
           <value>wm.server.packages.adminui:packageInfo</value>
@@ -1042,54 +1042,54 @@
           <value>wm.server.replicator:subscriberEdit</value>
           <value>wm.server.ws</value>
           <value>wm.server.security.keystore.util:addPrivateKeyEntry</value>
-          <value>wm.server.query:getCurrentSession</value>
           <value>wm.server.proxy:createProxyServerAlias</value>
+          <value>wm.server.query:getCurrentSession</value>
           <value>wm.server.remote:addServer</value>
-          <value>wm.server.remote:aliasExists</value>
           <value>com.wm.isextdc.GetModel:getModel</value>
-          <value>wm.server.security.certificate:updateMapping</value>
-          <value>wm.server.replicator.adminui:subscriberCancel</value>
-          <value>wm.server.replicator:subscribedList</value>
+          <value>wm.server.remote:aliasExists</value>
           <value>wm.server.ehcache.admin:deleteCache</value>
-          <value>wm.server.query:getTaskList</value>
+          <value>wm.server.replicator:subscribedList</value>
+          <value>wm.server.replicator.adminui:subscriberCancel</value>
+          <value>wm.server.security.certificate:updateMapping</value>
           <value>wm.server.jdbcpool:deleteFunctionalAlias</value>
+          <value>wm.server.query:getTaskList</value>
           <value>wm.server.deployer.spi.wsProvider_.services:DeployObjectsWithVarsub</value>
           <value>wm.server.security:getSettings</value>
           <value>wm.server.globalvariables:editGlobalVariable</value>
-          <value>wm.server.replicator.adminui:subscriptionCancel</value>
           <value>wm.server.access:getProviderUserIdTokenClaims</value>
+          <value>wm.server.replicator.adminui:subscriptionCancel</value>
           <value>wm.server.schedule:pinTaskOnNodes</value>
-          <value>wm.server.security.openid:reloadProviders</value>
-          <value>wm.server.jndi:searchGroups</value>
           <value>wm.server.access:aclDelete</value>
+          <value>wm.server.jndi:searchGroups</value>
+          <value>wm.server.security.openid:reloadProviders</value>
           <value>wm.server.proxy:disableProxyServerAlias</value>
-          <value>wm.server.deployer.spi.wsProviderV2_.services:ActivateCheckpoint</value>
           <value>wm.server.net.listeners:deleteListener</value>
+          <value>wm.server.deployer.spi.wsProviderV2_.services:ActivateCheckpoint</value>
           <value>wm.server.access:isDigestAuthAllowedForUser</value>
-          <value>wm.server.services.adminui:loadTemplate</value>
-          <value>wm.server.replicator:packageRelease</value>
           <value>wm.server.access:addIdTokenClaim</value>
+          <value>wm.server.replicator:packageRelease</value>
+          <value>wm.server.services.adminui:loadTemplate</value>
           <value>wm.server.security.keystore:listTrustStoreAliases</value>
-          <value>wm.server.replicator:packageBackup</value>
-          <value>wm.server.packages:packageListRecoverable</value>
           <value>wm.server.ehcache.admin:enableCache</value>
+          <value>wm.server.packages:packageListRecoverable</value>
+          <value>wm.server.replicator:packageBackup</value>
           <value>wm.server.proxy:getDefaultHTTPProxyAlias</value>
           <value>wm.server.query:getRepoSettings</value>
           <value>wm.server.services.adminui:serviceInfoSet</value>
           <value>wm.server.jndi:getCDSSettings</value>
           <value>wm.server.packages:packageList</value>
-          <value>wm.server.services.adminui:saveTemplate</value>
-          <value>wm.server.query:getAllServiceStats</value>
           <value>wm.server.ns.adminui:syncToNamespace</value>
-          <value>wm.server.proxy:listProxyAliasNames</value>
+          <value>wm.server.query:getAllServiceStats</value>
+          <value>wm.server.services.adminui:saveTemplate</value>
           <value>wm.server.ehcache.admin:addCache</value>
+          <value>wm.server.proxy:listProxyAliasNames</value>
           <value>wm.server.replicator:packageCreation</value>
           <value>wm.server.packages.adminui:packageReload</value>
           <value>wm.server.net.listeners:listSecurityProviders</value>
           <value>wm.server.proxy:getDefaultFTPProxyAlias</value>
-          <value>wm.server.security.openid:getIdProviderNamesUI</value>
-          <value>wm.server.schedule:wakeupUserTask</value>
           <value>wm.server.jndi:setSettings</value>
+          <value>wm.server.schedule:wakeupUserTask</value>
+          <value>wm.server.security.openid:getIdProviderNamesUI</value>
           <value>wm.server.sftpclient:getDefaultConfig</value>
           <value>wm.server.xarecovery:getXARecoveryStoreSettings</value>
           <value>wm.server.query:getSetting</value>
@@ -1102,25 +1102,25 @@
           <value>wm.server.dispatcher.adminui:getBrokerSettings</value>
           <value>wm.server.packages:packageRecover</value>
           <value>wm.server.admin:setLicenseKeyFile</value>
-          <value>wm.server:getClusterNodes</value>
           <value>wm.server.httpUrlAlias:addAlias</value>
+          <value>wm.server:getClusterNodes</value>
           <value>wm.server.replicator:archivePackage</value>
           <value>wm.server.security.keystore:listKeyStoreAliases</value>
           <value>wm.server.sftpclient:createConnectionAlias</value>
-          <value>wm.server.sftpclient:getConnectionAlias</value>
-          <value>wm.server.schedule:resumeScheduler</value>
           <value>wm.server.deployer.spi.wsProvider_.services:DeployObjectsWithACDL</value>
+          <value>wm.server.schedule:resumeScheduler</value>
+          <value>wm.server.sftpclient:getConnectionAlias</value>
           <value>wm.server.access:userAdd</value>
           <value>wm.server.replicator.adminui:subscriptionAdd</value>
-          <value>wm.server.net.http:shutdown</value>
           <value>wm.server.access:aclAssign</value>
+          <value>wm.server.net.http:shutdown</value>
           <value>wm.server.ldap:getConfiguredServer</value>
-          <value>wm.server.replicator.adminui:packageSendZip</value>
           <value>wm.server.globalvariables:removeGlobalVariable</value>
-          <value>wm.server.query:getSessionList</value>
+          <value>wm.server.replicator.adminui:packageSendZip</value>
           <value>wm.server.query:getSecurityProviders</value>
-          <value>wm.server.replicator:packageUnRelease</value>
+          <value>wm.server.query:getSessionList</value>
           <value>wm.server.jndi:getJNDIAliasTemplates</value>
+          <value>wm.server.replicator:packageUnRelease</value>
           <value>wm.server.security.openid:getIdProviders</value>
           <value>wm.server.query:getClusterSettings</value>
           <value>wm.server.access:setDefaultAccess</value>
@@ -1128,33 +1128,33 @@
           <value>wm.server.query:getExtendedSettings</value>
           <value>wm.server.ui:getMenuTabs</value>
           <value>pub.vcs.admin:getUsers</value>
-          <value>wm.xslt.Admin:getAvailableTransformerFactoryClasses</value>
           <value>wm.server.replicator:getPublisherInfo</value>
+          <value>wm.xslt.Admin:getAvailableTransformerFactoryClasses</value>
           <value>wm.server.ehcache.admin:getCaches</value>
-          <value>wm.server.remote:testAlias</value>
           <value>wm.server.query:getPartialLog</value>
-          <value>wm.server.ui:removeSolution</value>
+          <value>wm.server.remote:testAlias</value>
           <value>wm.server.internalOutboundPasswords:listAdminHandles</value>
+          <value>wm.server.ui:removeSolution</value>
           <value>wm.server.replicator:getDetailedReleasedList</value>
           <value>wm.server.ns.adminui:unLockNode</value>
-          <value>wm.server.sftpclient:testConnection</value>
-          <value>wm.server.access:removeGroups</value>
           <value>wm.server.dispatcher.adminui:clearDupeOrInDoubtDocsStat</value>
+          <value>wm.server.access:removeGroups</value>
+          <value>wm.server.sftpclient:testConnection</value>
           <value>wm.server.remote:init</value>
-          <value>wm.server.access:updateACLs</value>
           <value>wm.server.access:addProviderUsers</value>
+          <value>wm.server.access:updateACLs</value>
           <value>wm.server.security.KeyStoreUtil:createKeyStore</value>
-          <value>wm.server.access:userDelete</value>
           <value>wm.server.packages:packageAddStartupService</value>
-          <value>wm.server.cluster:setSettings</value>
-          <value>wm.server.jndi:deleteJNDIAliasData</value>
+          <value>wm.server.access:userDelete</value>
           <value>wm.server.net.listeners:updateListener</value>
-          <value>wm.server.sftpclient:removeUserAlias</value>
+          <value>wm.server.jndi:deleteJNDIAliasData</value>
+          <value>wm.server.cluster:setSettings</value>
           <value>wm.server.jdbcpool:deleteDriverAlias</value>
+          <value>wm.server.sftpclient:removeUserAlias</value>
           <value>wm.server.security.openid:getIdProviderNames</value>
           <value>wm.server.replicator:unzip</value>
-          <value>wm.server.security.keystore:listKeyAliases</value>
           <value>wm.server.security.certificate:getDetailedInfo</value>
+          <value>wm.server.security.keystore:listKeyAliases</value>
           <value>com.wm.isextdc.GetAttributes:getAttributes</value>
           <value>wm.server.deployer.spi.wsProviderV2_.services:Checkpoint</value>
           <value>wm.server.admin:getHelpTopicUrlMappings</value>
@@ -1162,13 +1162,13 @@
           <value>wm.server.internalOutboundPasswords:listInternalHandles</value>
           <value>wm.server.access:addACLS</value>
           <value>wm.server.access:addUserInfoClaim</value>
-          <value>wm.server:connect</value>
-          <value>wm.server.schedule:getTargetNodeList</value>
           <value>wm.server.query:getCachedServiceStats</value>
+          <value>wm.server.schedule:getTargetNodeList</value>
+          <value>wm.server:connect</value>
           <value>wm.server.query:getISInstanceProperties</value>
           <value>wm.server.query:getServerLogSettings</value>
-          <value>wm.server.ehcache.admin:getCacheManagers</value>
           <value>wm.server.portAccess:portList</value>
+          <value>wm.server.ehcache.admin:getCacheManagers</value>
           <value>wm.server.packages:packageRemoveReplicationService</value>
           <value>wm.server.jndi:testJNDILookup</value>
           <value>wm.server.schedule:removePinnedNodesAgainstTask</value>
@@ -1189,23 +1189,23 @@
           <value>wm.server.quiesce:getQuiescePort</value>
           <value>wm.server.triggers:compareClusterReport</value>
           <value>wm.server.schedule:cancelUserTaskByName</value>
-          <value>wm.server.jdbcpool:addFunctionalAlias</value>
           <value>wm.server.net.listeners:updateApiGatewayListener</value>
+          <value>wm.server.jdbcpool:addFunctionalAlias</value>
           <value>wm.server.xidl.adminui:getInterfacesPlus</value>
           <value>wm.server.sftpclient:getServerAliasInfo</value>
           <value>wm.server.deployer.spi.wsProvider_.services:GetObjectVarSub</value>
           <value>wm.server.security.certificate:deleteMapping</value>
-          <value>wm.server.deployer.spi.wsProviderV2_.services:DeliverArtifacts</value>
           <value>wm.server.net.listeners:listListeners</value>
+          <value>wm.server.deployer.spi.wsProviderV2_.services:DeliverArtifacts</value>
           <value>wm.server.security.keystore:createDefaultKeyStoreTrustStoreAliases</value>
-          <value>wm.server.security.KeyStoreUtil:addTrustedCertificateEntry</value>
           <value>wm.server.query:isInstalledAsService</value>
+          <value>wm.server.security.KeyStoreUtil:addTrustedCertificateEntry</value>
           <value>wm.server.services.adminui:serviceInfo</value>
-          <value>wm.server.jdbcpool:getFunctionalDefinitions</value>
           <value>wm.server.ehcache.admin:startCacheManager</value>
-          <value>wm.server.xidl.adminui:testService</value>
-          <value>wm.server.sftpclient:updateConnectionAlias</value>
+          <value>wm.server.jdbcpool:getFunctionalDefinitions</value>
           <value>wm.server.access:isUserExists</value>
+          <value>wm.server.sftpclient:updateConnectionAlias</value>
+          <value>wm.server.xidl.adminui:testService</value>
           <value>wm.server.deployer.spi.wsProvider_.services:GetDependencies</value>
           <value>wm.server.metadata</value>
           <value>wm.server.tx:resetOutbound</value>
@@ -1213,76 +1213,76 @@
           <value>wm.server.net.listeners:disableListener</value>
           <value>wm.server.access:getDefaultAccess</value>
           <value>wm.server.proxy:isHTTPDefaultConfigured</value>
-          <value>wm.server.query:getThreadDump</value>
           <value>wm.server.jdbcpool:deletePoolAlias</value>
-          <value>wm.server.security.certificate:admin</value>
+          <value>wm.server.query:getThreadDump</value>
           <value>wm.server.proxy:getDefaultHTTPSProxyAlias</value>
-          <value>wm.server.jdbcpool:updateFunctionalAlias</value>
+          <value>wm.server.security.certificate:admin</value>
           <value>wm.server.mimetypes:initMimeTypes</value>
-          <value>wm.server.portAccess:setType</value>
+          <value>wm.server.jdbcpool:updateFunctionalAlias</value>
           <value>wm.server.admin:getServerHost</value>
+          <value>wm.server.portAccess:setType</value>
           <value>wm.server.triggers:monitorAuditSubsystemDB</value>
-          <value>com.wm.isextdc.PkgInit:shutdown</value>
           <value>wm.server.ldap:deleteConfiguredServer</value>
-          <value>wm.server.replicator:packageMakeZip</value>
-          <value>wm.server.remote:getServerAliases</value>
+          <value>com.wm.isextdc.PkgInit:shutdown</value>
           <value>wm.server.deployer.spi.wsProviderV2_.services:ExecuteCommand</value>
+          <value>wm.server.remote:getServerAliases</value>
+          <value>wm.server.replicator:packageMakeZip</value>
           <value>wm.server.security.KeyStoreUtil:addPrivateKeyEntry</value>
           <value>wm.server.schedule:getSchedulerInputAsString</value>
-          <value>wm.server.access:providersList</value>
           <value>wm.server.access:aclChange</value>
+          <value>wm.server.access:providersList</value>
           <value>wm.server.proxy:isHTTPSDefaultConfigured</value>
           <value>wm.server.query:getReadOnlyConfigFiles</value>
           <value>wm.server.admin:updateExtendedSettings</value>
           <value>wm.server.ehcache.admin:disableCache</value>
           <value>wm.server.schedule:init</value>
           <value>wm.server.net.listeners:ListenerAdmin</value>
-          <value>wm.server.xarecovery:performActionsOnXAResources</value>
-          <value>wm.server.schedule:updateUserTask</value>
           <value>wm.server.packages:packageInstall</value>
-          <value>wm.server.xarecovery:getXAResourceInfoForXid</value>
+          <value>wm.server.schedule:updateUserTask</value>
+          <value>wm.server.xarecovery:performActionsOnXAResources</value>
           <value>wm.server.dispatcher.adminui:clearTriggerDupeOrInDoubtDocsStat</value>
+          <value>wm.server.xarecovery:getXAResourceInfoForXid</value>
           <value>wm.server.dispatcher.adminui:getDocStoreSettings</value>
           <value>wm.server.net.listeners:addSecurityProvider</value>
           <value>wm.server.dispatcher.adminui:deleteRejectedMessages</value>
           <value>wm.server.xarecovery:setWriteRecoveryRecord</value>
-          <value>wm.server.security.openid:setIdProvider</value>
           <value>wm.server.auditing:setAuditLoggerDetails</value>
+          <value>wm.server.security.openid:setIdProvider</value>
           <value>wm.server.query:getServerInstanceName</value>
           <value>com.wm.isextdc.PkgInit:init</value>
           <value>wm.server:noop</value>
-          <value>wm.server.jndi:getJNDIAliases</value>
-          <value>wm.server.globalvariables:getGlobalVariableValue</value>
           <value>wm.server.ehcache.admin:syncCacheConfigToTSA</value>
-          <value>wm.server.query:getServiceStats</value>
+          <value>wm.server.globalvariables:getGlobalVariableValue</value>
+          <value>wm.server.jndi:getJNDIAliases</value>
           <value>wm.server.query:getExtendedSettingsVisible</value>
+          <value>wm.server.query:getServiceStats</value>
           <value>wm.server.auditing:getAuditLoggerDetails</value>
-          <value>wm.server.sftpclient:updateServerAlias</value>
           <value>wm.server.deployer.spi.wsProviderV2_.services:DeleteDeliveredArtifacts</value>
+          <value>wm.server.sftpclient:updateServerAlias</value>
           <value>wm.server.deployer.spi.wsProvider_.services:GetObjects</value>
           <value>wm.server.ui:getMenus</value>
           <value>wm.server:ping</value>
           <value>wm.xslt.File:create</value>
           <value>wm.server.sftpclient:removeConnectionAlias</value>
-          <value>com.wm.isextdc.config:install</value>
           <value>wm.server.access:setMultipleUserDisabled</value>
+          <value>com.wm.isextdc.config:install</value>
           <value>wm.server.query:getResourceSettings</value>
-          <value>wm.server.xarecovery:getUnresolvedTXs</value>
-          <value>wm.server.admin:quiesceServer</value>
-          <value>wm.server.packages:getPackageStatus</value>
           <value>wm.server.jdbcpool:testPoolAlias</value>
+          <value>wm.server.packages:getPackageStatus</value>
+          <value>wm.server.admin:quiesceServer</value>
+          <value>wm.server.xarecovery:getUnresolvedTXs</value>
           <value>wm.server.internalOutboundPasswords:verifyRawMaster</value>
           <value>wm.server.dispatcher.adminui:getRejectedMessages</value>
-          <value>wm.server.access:aclAdd</value>
           <value>wm.server.deployer.spi.wsProvider_.services:GetConnectionInfo</value>
+          <value>wm.server.access:aclAdd</value>
           <value>wm.server.access:userUpdate</value>
           <value>wm.server.replicator:getDetailedSubscriptions</value>
           <value>wm.server.deployer.spi.wsProvider_.services:DeployObjects</value>
           <value>wm.server.jndi:getSettings</value>
           <value>wm.server.jms</value>
           <value>wm.server.packages.adminui:packageActivate</value>
-          <value>wm.server.schedule:getUserTaskOids</value>
           <value>wm.server.access:groupDelete</value>
+          <value>wm.server.schedule:getUserTaskOids</value>
           <value>wm.server.packages:packageAddReplicationService</value>
         </list>
       </record>
